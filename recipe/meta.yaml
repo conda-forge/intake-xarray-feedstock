@@ -26,12 +26,8 @@ requirements:
     - netcdf4
 
 test:
-  source_files:
-    - tests
-  requires:
-    - pytest
-  commands:
-    - pytest -rxs tests
+  imports:
+    - intake_xarray
 
 about:
   home: https://github.com/ContinuumIO/intake-xarray
