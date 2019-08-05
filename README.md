@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About intake-xarray
 ===================
 
@@ -18,8 +14,15 @@ Summary: xarray plugins for Intake
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/intake-xarray-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/intake-xarray-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4815&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/intake-xarray-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
