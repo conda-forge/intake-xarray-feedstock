@@ -117,4 +117,5 @@ Feedstock Maintainers
 * [@jsignell](https://github.com/jsignell/)
 * [@martindurant](https://github.com/martindurant/)
 * [@ocefpaf](https://github.com/ocefpaf/)
+* [@weiji14](https://github.com/weiji14/)
 
