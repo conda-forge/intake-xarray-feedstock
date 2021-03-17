@@ -22,7 +22,7 @@ requirements:
     - intake >=0.5.2
     - dask >=2.2
     - netcdf4
-    - xarray >=0.12.0
+    - xarray >=0.17.0
     - zarr
     - msgpack-python
     - requests
