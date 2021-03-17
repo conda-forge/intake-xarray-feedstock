@@ -24,6 +24,10 @@ requirements:
     - netcdf4
     - xarray >=0.12.0
     - zarr
+    - msgpack-python
+    - requests
+    - fsspec
+    - numpy
 
 test:
   imports:
