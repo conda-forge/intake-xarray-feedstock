@@ -21,7 +21,7 @@ requirements:
     - dask >=2.2
     - fsspec >=2022
     - intake >=0.6.6
-    - msgpack
+    - msgpack-python
     - netcdf4
     - python >=3.5
     - requests
