@@ -1,7 +1,7 @@
 About intake-xarray
 ===================
 
-Home: https://github.com/ContinuumIO/intake-xarray
+Home: https://github.com/intake/intake-xarray
 
 Package license: BSD-2-Clause
 
