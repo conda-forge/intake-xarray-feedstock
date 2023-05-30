@@ -1,11 +1,11 @@
-About intake-xarray
-===================
+About intake-xarray-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/intake-xarray-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/intake/intake-xarray
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/intake-xarray-feedstock/blob/main/LICENSE.txt)
 
 Summary: xarray plugins for Intake
 
