@@ -1,12 +1,12 @@
-{% set version = "0.7.0" %}
+{% set version = "2.0.0" %}
 
 package:
   name: intake-xarray
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/i/intake-xarray/intake-xarray-{{ version }}.tar.gz
-  sha256: 919b21be9d836bd915cb50f0ac8027b97c69ac2f906b5a3ad7ba045541be7589
+  url: https://pypi.org/packages/source/i/intake-xarray/intake_xarray-{{ version }}.tar.gz
+  sha256: 163ca7aa2206ab43468f962c8c3260a2ef1e4bea388ca3d42c427d9b6b3ce133
 
 build:
   number: 0
