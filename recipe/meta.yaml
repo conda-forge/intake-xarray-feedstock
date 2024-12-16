@@ -9,7 +9,7 @@ source:
   sha256: 163ca7aa2206ab43468f962c8c3260a2ef1e4bea388ca3d42c427d9b6b3ce133
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
 
@@ -22,7 +22,7 @@ requirements:
     - python >={{ python_min }}
     - dask >=2.2
     - fsspec >=2022
-    - intake >=0.6.6
+    - intake >=2.0
     - msgpack-python
     - netcdf4
     - requests
